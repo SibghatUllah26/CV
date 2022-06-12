@@ -1,0 +1,47 @@
+body {
+  Background-Color: #FFF8DC;
+}
+
+hr {
+  Background-Color: #FFF8DC;
+  border-style: dotted none none;
+  border-top-color: #800000;
+  border-top-width: thick;
+  border-width: 6px;
+  width: 4%;
+}
+
+h2 {
+  color: #B22222;
+}
+
+h3 {
+  color: #950101;
+}
+
+p {
+  color: #A52A2A;
+}
+
+li {
+  color: #A52A2A;
+}
+
+h1 {
+  color: #8B0000;
+}
+table {
+ border-collapse: collapse;
+}
+td{
+  background-color: #FFF8DC;
+  color: #A52A2A;
+}
+th{
+  background-color: #DEB887;
+  color: #950101;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
