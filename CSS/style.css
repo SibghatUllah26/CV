@@ -8,7 +8,6 @@ hr {
   border-top-color: #800000;
   border-top-width: thick;
   border-width: 6px;
-  height: 0px;
   width: 4%;
 }
 
@@ -30,4 +29,19 @@ li {
 
 h1 {
   color: #8B0000;
+}
+table {
+ border-collapse: collapse;
+}
+td{
+  background-color: #FFF8DC;
+  color: #A52A2A;
+}
+th{
+  background-color: #DEB887;
+  color: #950101;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
 }
